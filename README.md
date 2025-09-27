@@ -1,4 +1,4 @@
-#  Employee Management System SQL
+#  Employee Management System
 ## *Advanced SQL-Based HR Analytics & Database Solution*
 
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
