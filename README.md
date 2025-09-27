@@ -1,4 +1,4 @@
-# 🏢 Employee Management System SQL
+#  Employee Management System SQL
 ## *Advanced SQL-Based HR Analytics & Database Solution*
 
 [![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
@@ -8,36 +8,34 @@
 
 ---
 
-## 📋 Table of Contents
-- [🎯 Project Overview](#-project-overview)
-- [🏗️ Database Architecture](#️-database-architecture)
-- [💼 Business Intelligence](#-business-intelligence)
-- [🚀 Key Features](#-key-features)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [🔧 Implementation Examples](#-implementation-examples)
-- [📈 Sample Query Outputs](#-sample-query-outputs)
-- [🎯 Business Impact](#-business-impact)
-- [📦 Installation & Setup](#-installation--setup)
-- [🚀 Future Enhancements](#-future-enhancements)
+## Table of Contents
+- [ Project Overview](#-project-overview)
+- [ Database Architecture](#️-database-architecture)
+- [ Business Intelligence](#-business-intelligence)
+- [ Key Features](#-key-features)
+- [ Technologies Used](#️-technologies-used)
+- [ Business Impact](#-business-impact)
+- [ Installation & Setup](#-installation--setup)
+- [ Future Enhancements](#-future-enhancements)
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This comprehensive **Employee Management System** is a sophisticated SQL-based solution that revolutionizes HR operations through data-driven insights. The system integrates employee lifecycle management, advanced payroll processing, performance analytics, and strategic workforce planning into a unified relational database architecture.
 
-### 🌟 Core Objectives
-- **🏗️ Robust Database Design**: Normalized relational structure with 6 interconnected tables
-- **📊 Advanced Analytics**: 20+ sophisticated SQL queries for comprehensive HR insights
-- **💼 Business Intelligence**: Real-time reporting and strategic decision support
-- **🔒 Data Integrity**: Comprehensive constraints, foreign keys, and validation rules
-- **📈 Scalable Architecture**: Future-ready design supporting organizational growth
+###  Core Objectives
+- ** Robust Database Design**: Normalized relational structure with 6 interconnected tables
+- ** Advanced Analytics**: 20+ sophisticated SQL queries for comprehensive HR insights
+- ** Business Intelligence**: Real-time reporting and strategic decision support
+- ** Data Integrity**: Comprehensive constraints, foreign keys, and validation rules
+- ** Scalable Architecture**: Future-ready design supporting organizational growth
 
 ---
 
-## 🏗️ Database Architecture
+##  Database Architecture
 
-### 📊 Entity-Relationship Design
+###  Entity-Relationship Design
 ```
 JOBDEPARTMENT ──┐
                 │
@@ -52,7 +50,7 @@ SALARYBONUS ────┘                   │
 LEAVES ─────────────────────────────┘
 ```
 
-### 🗃️ Table Structure Overview
+###  Table Structure Overview
 
 | Table | Purpose | Key Fields |
 |-------|---------|------------|
@@ -65,9 +63,9 @@ LEAVES ────────────────────────�
 
 ---
 
-## 💼 Business Intelligence
+##  Business Intelligence
 
-### 📊 Key Performance Indicators (KPIs)
+###  Key Performance Indicators (KPIs)
 
 | KPI Category | Metrics Tracked | Business Value |
 |-------------|----------------|----------------|
@@ -77,7 +75,7 @@ LEAVES ────────────────────────�
 | **Operational Efficiency** | Leave patterns, workload indicators | Productivity optimization, wellness programs |
 | **Financial Analysis** | Cost per employee, budget variance | Financial planning, ROI analysis |
 
-### 🎯 Strategic Decision Support
+### Strategic Decision Support
 
 #### **For HR Managers**
 - **Talent Identification**: Find high-performers and skill gaps
@@ -96,21 +94,21 @@ LEAVES ────────────────────────�
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-### ✅ **Comprehensive Query Library**
+###  **Comprehensive Query Library**
 - **20+ Advanced SQL Queries** covering all HR dimensions
 - **Multi-table Joins** for complex relationship analysis
 - **Statistical Functions** for quartile and distribution analysis
 - **Conditional Logic** for categorization and risk assessment
 
-### ✅ **Real-time Analytics**
+###  **Real-time Analytics**
 - **Live Dashboard Capability** through query execution
 - **Dynamic Reporting** with parameterized queries
 - **Trend Analysis** using temporal data patterns
 - **Comparative Metrics** across departments and roles
 
-### ✅ **Data-Driven Insights**
+###  **Data-Driven Insights**
 - **Predictive Indicators** for retention and performance
 - **Anomaly Detection** for salary and leave patterns
 - **Efficiency Metrics** for operational optimization
@@ -118,7 +116,7 @@ LEAVES ────────────────────────�
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose | Advantage |
 |------------|---------|-----------|
@@ -130,26 +128,26 @@ LEAVES ────────────────────────�
 ---
 
 
-## 🎯 Business Impact
+##  Business Impact
 
-### 📊 **Budget Planning**
+###  **Budget Planning**
 - Identify high-cost departments for budget allocation
 - Compare departmental efficiency using cost-per-employee
 - Plan future hiring based on current costs
 
-### 💼 **Performance Analysis**
+###  **Performance Analysis**
 - Benchmark departments against each other
 - Identify cost optimization opportunities
 - Analyze bonus distribution fairness
 
-### 💼 **Strategic Decision Making**
+###  **Strategic Decision Making**
 - Resource allocation - Where to invest more/less
 - Departmental restructuring decisions
 - Salary benchmarking across departments
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### **Prerequisites**
 - MySQL Server 8.0+ or SQLite 3.0+
@@ -175,9 +173,9 @@ LEAVES ────────────────────────�
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-### 🔮 **Planned Features**
+###  **Planned Features**
 - **Predictive Analytics**: Machine learning integration for turnover prediction
 - **Dashboard Interface**: Web-based visualization platform
 - **API Development**: RESTful services for external integrations
@@ -186,7 +184,7 @@ LEAVES ────────────────────────�
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -198,13 +196,13 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🏆 Final Result
+##  Final Result
 
 This **Employee Management System** successfully demonstrates how SQL can transform raw HR data into strategic business intelligence. Through sophisticated database design, advanced analytics, and comprehensive reporting capabilities, the system empowers organizations to make data-driven decisions that optimize workforce management, enhance employee satisfaction, and drive business success.
 
