@@ -25,11 +25,11 @@
 This comprehensive **Employee Management System** is a sophisticated SQL-based solution that revolutionizes HR operations through data-driven insights. The system integrates employee lifecycle management, advanced payroll processing, performance analytics, and strategic workforce planning into a unified relational database architecture.
 
 ###  Core Objectives
-- ** Robust Database Design**: Normalized relational structure with 6 interconnected tables
-- ** Advanced Analytics**: 20+ sophisticated SQL queries for comprehensive HR insights
-- ** Business Intelligence**: Real-time reporting and strategic decision support
-- ** Data Integrity**: Comprehensive constraints, foreign keys, and validation rules
-- ** Scalable Architecture**: Future-ready design supporting organizational growth
+- **Robust Database Design**: Normalized relational structure with 6 interconnected tables
+- **Advanced Analytics**: 20+ sophisticated SQL queries for comprehensive HR insights
+- **Business Intelligence**: Real-time reporting and strategic decision support
+- **Data Integrity**: Comprehensive constraints, foreign keys, and validation rules
+- **Scalable Architecture**: Future-ready design supporting organizational growth
 
 ---
 
